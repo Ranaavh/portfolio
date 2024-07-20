@@ -172,6 +172,10 @@ export const skills = [
 export const experiences = [
   {
     id:0,
+    img:"" ,
+    role: " virtual Internship-Software Engineer ",
+    company: "GrapplTech",
+    date: "July 2024 - Present",
     
   },
   {
