@@ -6,7 +6,7 @@ export const Bio = {
   github: "https://github.com/Ranaavh",
   resume:
     "https://drive.google.com/file/d/1Cbnd3LIqbPA67AcLRdqFQ-n6-YKAjr3_/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/rana-vh-2a4238212",
+  linkedin: "https://www.linkedin.com/in/rana-vh",
   email: "mailto:ranavh003@gmail.com",
 };
 
