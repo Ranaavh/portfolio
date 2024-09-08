@@ -170,14 +170,14 @@ export const experiences = [
     img: "",
     role: " Virtual Internship-Software Engineer ",
     company: "GrapplTech",
-    date: "July 2024 - Present",
+    date: "July 2024 ",
   },
   {
     id: 1,
     img: "",
     role: " Web Developer Intern ",
     company: "Ewolwe Company",
-    date: "February 2024 - Present",
+    date: "January 2024 - August 2024 ",
     desc: " I've been diving into web development with a focus on React, exploring its powerful capabilities for building interactive and efficient user interfaces.Developing responsive web applications with a focus on user experience and modern design principles.",
     skills: [
       "React Js",
