@@ -165,13 +165,21 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
+   {
     id: 0,
     img: "",
-    role: " Virtual Internship-Software Engineer ",
-    company: "GrapplTech",
-    date: "July 2024 ",
+    role: "Junior Software Developer Trainee ",
+    company: "Appsure",
+    date: "October 2025 - Present",
+     desc: " Assisted in the development and maintenance of ERP modules using ASP.NETCore and C# . Participated in debugging, testing, and performance tuning of existing systems. Collaborated with senior developers in implementing new features and resolving bugs",
+    skills: [
+      "C#",
+      "ASP.NET Core/MVC",
+      "MSSQL",
+     
+    ],
   },
+
   {
     id: 1,
     img: "",
